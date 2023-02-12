@@ -7,5 +7,7 @@ int main(void) {
     
     system("PAUSE");
 
+    system("CLS");
+
     return 0;
 }
